@@ -1,0 +1,88 @@
+Telegram Credit Bot - User List
+Generated: 2026-07-15 17:21:07
+============================================================
+
+User ID: 2085082046
+Name: ıllı 𝐒𝐀𝐇𝐈𝐋 ıllı
+Username: @SahilModzOwner
+Balance: ₹1010
+Joined: 2026-07-13 00:47:33
+Last seen: 2026-07-15 17:20:02
+Banned: False
+Total requests: 80
+Successful requests: 67
+Referrals: 1
+Referral earnings: ₹10
+------------------------------------------------------------
+User ID: 6468687665
+Name: SM
+Username: Not set
+Balance: ₹0
+Joined: 2026-07-13 19:02:00
+Last seen: 2026-07-15 17:17:32
+Banned: False
+Total requests: 0
+Successful requests: 0
+Referrals: 0
+Referral earnings: ₹0
+------------------------------------------------------------
+User ID: 8272199996
+Name: 𝐉𝐚𝐗𝐗_𝐁𝐡𝐚𝐢𝐒𝐭𝐨𝐫𝐞
+Username: @JaXxTrusted_Bhai
+Balance: ₹1010
+Joined: 2026-07-13 19:25:21
+Last seen: 2026-07-15 17:18:31
+Banned: False
+Total requests: 22
+Successful requests: 13
+Referrals: 0
+Referral earnings: ₹0
+------------------------------------------------------------
+User ID: 6258016174
+Name: Rony
+Username: @RonyXCyber
+Balance: ₹20
+Joined: 2026-07-15 00:45:53
+Last seen: 2026-07-15 14:10:22
+Banned: False
+Total requests: 0
+Successful requests: 0
+Referrals: 0
+Referral earnings: ₹0
+------------------------------------------------------------
+User ID: 985208103
+Name: BAT
+Username: @Batfrr
+Balance: ₹50
+Joined: 2026-07-15 02:11:11
+Last seen: 2026-07-15 04:14:53
+Banned: False
+Total requests: 4
+Successful requests: 2
+Referrals: 0
+Referral earnings: ₹0
+------------------------------------------------------------
+User ID: 5118550878
+Name: ×͜× 『Yu𝐯𝐢』×͜× ㅤㅤ
+Username: @Yuvvii_007
+Balance: ₹20
+Joined: 2026-07-15 13:48:22
+Last seen: 2026-07-15 13:48:22
+Banned: False
+Total requests: 0
+Successful requests: 0
+Referrals: 0
+Referral earnings: ₹0
+------------------------------------------------------------
+User ID: 7023727568
+Name: PlayAccess Official
+Username: @PlayAccessOfficial
+Balance: ₹30
+Joined: 2026-07-15 17:18:45
+Last seen: 2026-07-15 17:18:45
+Banned: False
+Total requests: 0
+Successful requests: 0
+Referrals: 0
+Referral earnings: ₹0
+------------------------------------------------------------

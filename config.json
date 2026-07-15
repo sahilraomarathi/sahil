@@ -1,0 +1,124 @@
+{
+    "bot_token": "8989014216:AAG-hEzsJTfDAlfRBrt2jrMO4C9eBbtG-lQ",
+    "admin_ids": [
+        "2085082046"
+    ],
+    "support_username": "@RonyXCyber",
+    "first_time_credits": 0,
+    "request_timeout_seconds": 20,
+    "maintenance_mode": false,
+    "services": {
+        "username_search": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "instagram_public": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=insta",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "email_security": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=mail",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "ip_info": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=ip",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "ifsc_info": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=ifsc",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "domain_info": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=domain",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "adhaar_search": {
+            "enabled": true,
+            "credit_cost": 10,
+            "api_url": "http://uersxinfo.in/api?key=odrbisirwi&type=adhar",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "number_info": {
+            "enabled": true,
+            "credit_cost": 10,
+            "api_url": "http://uersxinfo.in/api?key=odrbisirwi&type=mobile",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "tg_to_num": {
+            "enabled": true,
+            "credit_cost": 10,
+            "api_url": "http://uersxinfo.in/api?key=odrbisirwi&type=uers",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "vehicle_to_owner": {
+            "enabled": true,
+            "credit_cost": 25,
+            "api_url": "http://uersxinfo.in/api?key=odrbisirwi&type=veh_numm",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "advance_vehicle": {
+            "enabled": false,
+            "credit_cost": 35,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=veh_all_info",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "adhaar_to_ration": {
+            "enabled": false,
+            "credit_cost": 10,
+            "api_url": "http://uersxinfo.in/api?key=3daysdeno&type=adhar",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        },
+        "bomber": {
+            "enabled": false,
+            "credit_cost": 0,
+            "api_url": "",
+            "method": "GET",
+            "parameter_name": "phone",
+            "headers": {}
+        },
+        "pro_osint": {
+            "enabled": true,
+            "credit_cost": 50,
+            "api_url": "http://uersxinfo.in/api?key=odrbisirwi&type=leakk",
+            "method": "GET",
+            "parameter_name": "term",
+            "headers": {}
+        }
+    }
+}

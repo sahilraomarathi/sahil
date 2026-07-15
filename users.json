@@ -1,0 +1,36 @@
+{
+    "8272199996": {
+        "telegram_id": "8272199996",
+        "username": "JaXxTrusted_Bhai",
+        "first_name": "𝐉𝐚𝐗𝐗_𝐁𝐡𝐚𝐢𝐒𝐭𝐨𝐫𝐞",
+        "last_name": "",
+        "balance": 30,
+        "joined_at": "2026-07-15 18:04:35",
+        "last_seen": "2026-07-15 18:04:48",
+        "is_banned": false,
+        "total_requests": 0,
+        "successful_requests": 0,
+        "referral_code": "ref_8272199996",
+        "referred_by": null,
+        "referrals": [
+            "2085082046"
+        ],
+        "referral_earnings": 10
+    },
+    "2085082046": {
+        "telegram_id": "2085082046",
+        "username": "SahilModzOwner",
+        "first_name": "ıllı 𝐒𝐀𝐇𝐈𝐋 ıllı",
+        "last_name": "",
+        "balance": 20,
+        "joined_at": "2026-07-15 18:05:04",
+        "last_seen": "2026-07-15 18:05:04",
+        "is_banned": false,
+        "total_requests": 0,
+        "successful_requests": 0,
+        "referral_code": "ref_2085082046",
+        "referred_by": "8272199996",
+        "referrals": [],
+        "referral_earnings": 0
+    }
+}

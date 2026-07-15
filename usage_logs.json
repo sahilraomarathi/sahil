@@ -1,0 +1,172 @@
+[
+    {
+        "time": "2026-07-15 02:11:53",
+        "user_id": "985208103",
+        "username": "Batfrr",
+        "service": "number_info",
+        "query": "9115834796",
+        "success": false,
+        "cost": 0,
+        "message": "No data found"
+    },
+    {
+        "time": "2026-07-15 02:12:23",
+        "user_id": "985208103",
+        "username": "Batfrr",
+        "service": "number_info",
+        "query": "8270410357",
+        "success": false,
+        "cost": 0,
+        "message": "No data found"
+    },
+    {
+        "time": "2026-07-15 02:15:33",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "vehicle_to_owner",
+        "query": "Mh12zz0000",
+        "success": false,
+        "cost": 0,
+        "message": "API request failed. Please try again later."
+    },
+    {
+        "time": "2026-07-15 02:16:25",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "number_info",
+        "query": "9876543210",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 02:16:36",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "pro_osint",
+        "query": "Sahil repalr",
+        "success": false,
+        "cost": 0,
+        "message": "API request failed. Please try again later."
+    },
+    {
+        "time": "2026-07-15 02:18:25",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "number_info",
+        "query": "9119508611",
+        "success": false,
+        "cost": 0,
+        "message": "No data found"
+    },
+    {
+        "time": "2026-07-15 02:18:43",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "adhaar_search",
+        "query": "839339476189",
+        "success": false,
+        "cost": 0,
+        "message": "No data found"
+    },
+    {
+        "time": "2026-07-15 02:19:21",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "vehicle_to_owner",
+        "query": "9876543210",
+        "success": true,
+        "cost": 25,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 02:19:51",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "vehicle_to_owner",
+        "query": "MH12AB1234",
+        "success": true,
+        "cost": 25,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 02:20:10",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "vehicle_to_owner",
+        "query": "9119508611",
+        "success": true,
+        "cost": 25,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 02:20:55",
+        "user_id": "985208103",
+        "username": "Batfrr",
+        "service": "tg_to_num",
+        "query": "Batfrr",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 02:27:50",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "vehicle_to_owner",
+        "query": "Mh06cd",
+        "success": false,
+        "cost": 0,
+        "message": "API request failed. Please try again later."
+    },
+    {
+        "time": "2026-07-15 02:31:27",
+        "user_id": "985208103",
+        "username": "Batfrr",
+        "service": "tg_to_num",
+        "query": "Smtfxc",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 03:05:29",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "tg_to_num",
+        "query": "2085082046",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 03:17:10",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "tg_to_num",
+        "query": "2085082046",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 03:35:17",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "tg_to_num",
+        "query": "@Batfrr",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    },
+    {
+        "time": "2026-07-15 04:05:14",
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "service": "tg_to_num",
+        "query": "2085082046",
+        "success": true,
+        "cost": 10,
+        "message": ""
+    }
+]

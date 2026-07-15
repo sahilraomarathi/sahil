@@ -1,0 +1,37 @@
+{
+    "TXN_1784062014_2085082046_9330": {
+        "user_id": "2085082046",
+        "username": "SahilModzOwner",
+        "amount": 500,
+        "status": "completed",
+        "timestamp": "2026-07-15 02:16:54",
+        "screenshot_msg_id": 137,
+        "admin_action_msg_id": 138,
+        "admin_chat_id": "2085082046",
+        "screenshot_chat_id": 2085082046,
+        "completed_at": "2026-07-15 02:17:17",
+        "approved_by": "2085082046"
+    },
+    "TXN_1784062038_985208103_4581": {
+        "user_id": "985208103",
+        "username": "Batfrr",
+        "amount": 500,
+        "status": "pending",
+        "timestamp": "2026-07-15 02:17:18",
+        "screenshot_msg_id": null,
+        "admin_action_msg_id": null
+    },
+    "TXN_1784063497_985208103_1851": {
+        "user_id": "985208103",
+        "username": "Batfrr",
+        "amount": 50,
+        "status": "completed",
+        "timestamp": "2026-07-15 02:41:37",
+        "screenshot_msg_id": 250,
+        "admin_action_msg_id": 251,
+        "admin_chat_id": "2085082046",
+        "screenshot_chat_id": 985208103,
+        "completed_at": "2026-07-15 02:47:36",
+        "approved_by": "2085082046"
+    }
+}
